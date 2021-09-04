@@ -21,3 +21,5 @@
 ![Git Stats](https://github-readme-stats.vercel.app/api?username=Krishnadas-KD&theme=tokyonight&show_icons=true)
 ### Language Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnadas-KD&theme=tokyonight)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Krishnadas-KD&theme=<THEME_NAME>" />
