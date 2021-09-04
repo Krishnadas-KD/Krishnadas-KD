@@ -10,9 +10,9 @@
 
 
 ### About me ;) 
-- 🌱 <u>I’m currently learning<u> 
-          **Django** 
-          **Unreal Engine** 
+- 🌱 I’m currently learning
+          **Django**, 
+          **Unreal Engine**, 
           **Blender**
 - 
 - 💬 Ask me about **Git and Python**
