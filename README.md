@@ -10,7 +10,11 @@
 
 
 ### About me ;) 
-- 🌱 I’m currently learning **Django**
+- 🌱 <u>I’m currently learning<u> 
+          **Django** 
+          **Unreal Engine** 
+          **Blender**
+- 
 - 💬 Ask me about **Git and Python**
 - 🕵️ **Reach me on Telegram - [@Krishnadas](https://t.me/MAD0MAKER)**
 
