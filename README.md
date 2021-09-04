@@ -23,4 +23,4 @@
 
 ### Status
 ![Git Stats](https://github-readme-stats.vercel.app/api?username=Krishnadas-KD&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Krishnadas-KD=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnadas-KD=CharalambosIoannou&theme=tokyonight)
