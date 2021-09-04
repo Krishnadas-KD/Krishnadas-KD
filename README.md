@@ -10,12 +10,10 @@
 
 
 ### About me ;) 
-- 🌱 I’m currently learning
-          **Django**, 
-          **Unreal Engine**, 
-          **Blender**
-- 
-- 💬 Ask me about **Git and Python**
+- 🌱 I’m currently flexible with
+- <i class="programming lang-python"></i>
+-   **C++**,**C**,**Python**,**HTML**,**JS**,**CSS**,**django**,****
+- 💬 Also familiar with **Unreal Engine**,**Blender**
 - 🕵️ **Reach me on Telegram - [@Krishnadas](https://t.me/MAD0MAKER)**
 
 ---
