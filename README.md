@@ -1,14 +1,15 @@
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi there ! I'm Krishnadas. </h1>
 
 
-[![telegram badge](https://img.shields.io/badge/-KD-blue?style=flat&logo=telegram)](https://t.me/MAD0MAKER)
+[![telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MAD0MAKER)
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpad.g.kkrishnadas393@gmail.com)
 
 <!--![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Krishnadas-KD)-->
 ---
 
 
-Hi! My name is Nihaj and I'm a Final Year Computer Engineering student at SSM Polytechnic College Tirur,Kerala. 
+Hi! My name is Krishnadas and I'm a Final Year Computer Engineering student at SSM Polytechnic College Tirur,Kerala. 
 I am a self-taught programmer and I love to learn new things. I am currently working on my final year project. 
 
 ## My Stack
