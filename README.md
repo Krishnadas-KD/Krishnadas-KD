@@ -55,3 +55,6 @@ I am a self-taught programmer and I love to learn new things. I am currently wor
 
 ### Language Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnadas-KD&theme=tokyonight)
+
+## Contribution Graph
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Krishnadas-KD&theme=github" alt="max-programming" /></p> 
