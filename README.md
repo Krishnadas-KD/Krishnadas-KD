@@ -38,7 +38,7 @@ I am a self-taught programmer and I love to learn new things. I am currently wor
 
 #### DevOps:
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 #### 3D Sculpting and Rendering Software
