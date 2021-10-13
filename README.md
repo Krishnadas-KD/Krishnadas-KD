@@ -9,7 +9,7 @@
 
 
 Hi! My name is Krishnadas and I'm a Final Year Computer Engineering student at SSM Polytechnic College Tirur,Kerala. 
-I am a self-taught programmer and I love to learn new things. I am currently working on my final year project. 
+I am a self-taught programmer and I love to learn new things Also Love Gaming. I am currently working on my final year project. 
 
 ## My Stack
 
