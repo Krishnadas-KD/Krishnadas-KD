@@ -3,7 +3,7 @@
 
 [![telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MAD0MAKER)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpad.g.kkrishnadas393@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kkrishnadas393@gmail.com)
 
 <!--![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Krishnadas-KD)-->
 ---
