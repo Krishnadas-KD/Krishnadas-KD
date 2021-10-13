@@ -49,12 +49,12 @@ I am a self-taught programmer and I love to learn new things. I am currently wor
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white) 
 ![Photoshop ](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=1)
 
-### Status
-![Git Stats](https://github-readme-stats.vercel.app/api?username=Krishnadas-KD&theme=tokyonight&show_icons=true)
-
-
-### Language Status
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnadas-KD&hide=TeX&layout=compact&theme=tokyonight)
-
-## Contribution Graph
+---
+<div align="center">
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Krishnadas-KD&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+   <img width="400" src="http://github-readme-streak-stats.herokuapp.com?user=Krishnadas-KD&theme=tokyonight&hide_border=true" />
+</div>
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnadas-KD&theme=tokyonight&layout=compact&hide_border=true"
+</div>
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Krishnadas-KD&theme=github" alt="max-programming" /></p> 
