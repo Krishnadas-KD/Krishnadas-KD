@@ -11,6 +11,8 @@
 Hi! My name is Krishnadas and I'm a Final Year Computer Engineering student at SSM Polytechnic College Tirur,Kerala. 
 I am a self-taught programmer and I love to learn new things Also Love Gaming. I am currently working on my final year project. 
 
+<p align="center"><a href="https://github.com/mhdyazinkc"><img height="350" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif" alt="Hello" /></a></p><br>
+
 ## My Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
