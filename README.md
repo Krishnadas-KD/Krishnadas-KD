@@ -15,8 +15,9 @@ I am a self-taught programmer and I love to learn new things Also Love Gaming. I
 
 ## My Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python]()
 ![Java](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<img width="400"  src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 ![C](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -40,7 +41,7 @@ I am a self-taught programmer and I love to learn new things Also Love Gaming. I
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ---
 <div align="center">
-   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Krishnadas-KD&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+   <img width="400"  src="https://github-readme-stats.vercel.app/api?username=Krishnadas-KD&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
    <img width="400" src="http://github-readme-streak-stats.herokuapp.com?user=Krishnadas-KD&theme=tokyonight&hide_border=true" />
 </div>
 <div align="center">
