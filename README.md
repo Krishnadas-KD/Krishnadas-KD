@@ -38,6 +38,8 @@ I am a self-taught programmer and I love to learn new things Also Love Gaming. I
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ---
 <div align="center">
+   <img width="400" src="http://github-readme-streak-stats.herokuapp.com?user=Krishnadas-KD&theme=tokyonight&hide_border=true" />
+</div>
+<div align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnadas-KD&theme=tokyonight&layout=compact&hide_border=true"
 </div>
-  <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Krishnadas-KD&theme=github" alt="max-programming" /></p>
