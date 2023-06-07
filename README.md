@@ -39,7 +39,5 @@ I am a self-taught programmer and I love to learn new things Also Love Gaming. I
 ---
 <div align="center">
    <img width="400" src="http://github-readme-streak-stats.herokuapp.com?user=Krishnadas-KD&theme=tokyonight&hide_border=true" />
-</div>
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnadas-KD&theme=tokyonight&layout=compact&hide_border=true"
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnadas-KD&theme=tokyonight&layout=compact&hide_border=true"/>
 </div>
