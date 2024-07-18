@@ -8,8 +8,8 @@
 ---
 
 
-Hi! My name is Krishnadas and I'm a Final Year Computer Engineering student at SSM Polytechnic College Tirur,Kerala. 
-I am a self-taught programmer and I love to learn new things Also Love Gaming. I am currently working on my final year project. 
+Hi! My name is Krishnadas and I'm working as a system administrator in Regency Group For Corporate Management. 
+I am a self-taught programmer and I love to learn new things I Also Love Gaming. I am currently working on my final year project. 
 <br>
 <p align="center"><a href="https://github.com/Krishnadas-KD"><img height="350" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif" alt="Hello" /></a></p><br>
 
