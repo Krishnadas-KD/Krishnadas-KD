@@ -72,18 +72,6 @@ My main interests include **backend systems**, **DevOps**, and **modular ERP arc
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnadas-KD&theme=tokyonight&layout=compact&hide_border=true" />
 </div>
 
----
-
-### 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://t.me/MAD0MAKER"><img src="https://img.shields.io/badge/Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:kkrishnadas393@gmail.com"><img src="https://img.shields.io/badge/Email-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif" height="300" />
-</p>
 
 ---
 
